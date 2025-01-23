@@ -1,0 +1,12 @@
+C:/Users/Shantanu/Documents/MAIN/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/CMakeFiles/MAIN.dir
+C:/Users/Shantanu/Documents/MAIN/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/CMakeFiles/SudokuSolverApp.dir
+C:/Users/Shantanu/Documents/MAIN/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Shantanu/Documents/MAIN/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Shantanu/Documents/MAIN/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Shantanu/Documents/MAIN/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/Shantanu/Documents/MAIN/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/Shantanu/Documents/MAIN/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/Shantanu/Documents/MAIN/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/CMakeFiles/MAIN_autogen_timestamp_deps.dir
+C:/Users/Shantanu/Documents/MAIN/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/CMakeFiles/MAIN_autogen.dir
+C:/Users/Shantanu/Documents/MAIN/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/CMakeFiles/SudokuSolverApp_autogen_timestamp_deps.dir
+C:/Users/Shantanu/Documents/MAIN/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/CMakeFiles/SudokuSolverApp_autogen.dir
